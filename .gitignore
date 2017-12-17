@@ -1,0 +1,6 @@
+node_modules/
+.deploy_git/
+.npmignore
+_config.yml
+db.json
+package.json
